@@ -39,7 +39,7 @@ title: Reviews
                     <li><i class="fa fa-star checked"></i></li>
                     <li><i class="fa fa-star"></i></li>
                 </ul>
-                <button class="buy-1">Buy Now</button>
+                <button class="buy-1">Sign Up</button>
             </div>
             <div class="content">
                 <img src="shoes.png">
@@ -53,7 +53,7 @@ title: Reviews
                     <li><i class="fa fa-star"></i></li>
                     <li><i class="fa fa-star"></i></li>
                 </ul>
-                <button class="buy-2">Buy Now</button>
+                <button class="buy-2">Sign Up</button>
             </div>
             <div class="content">
                 <img src="shoes.png">
