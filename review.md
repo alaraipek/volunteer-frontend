@@ -45,7 +45,7 @@ title: Reviews
                 <img src="shoes.png">
                 <h3>Beach clean up</h3>
                 <p>Random description</p>
-                <h6>$70.00</h6>
+                <h6>Hours</h6>
                 <ul>
                     <li><i class="fa fa-star checked"></i></li>
                     <li><i class="fa fa-star checked"></i></li>
@@ -59,7 +59,7 @@ title: Reviews
                 <img src="shoes.png">
                 <h3>WTF</h3>
                 <p>Random description</p>
-                <h6>$100.00</h6>
+                <h6>Hours</h6>
                 <ul>
                     <li><i class="fa fa-star checked"></i></li>
                     <li><i class="fa fa-star checked"></i></li>
@@ -67,7 +67,7 @@ title: Reviews
                     <li><i class="fa fa-star"></i></li>
                     <li><i class="fa fa-star"></i></li>
                 </ul>
-                <button class="buy-3">Buy Now</button>
+                <button class="buy-3">Sign Up</button>
             </div>
         </div>
     </body>
