@@ -31,7 +31,7 @@ title: Reviews
                 <img src="shoes.png">
                 <h3>Foodshelter</h3>
                 <p>Random description</p>
-                <h6>$40.00</h6>
+                <h6>Hours</h6>
                 <ul>
                     <li><i class="fa fa-star checked"></i></li>
                     <li><i class="fa fa-star checked"></i></li>
@@ -57,7 +57,7 @@ title: Reviews
             </div>
             <div class="content">
                 <img src="shoes.png">
-                <h3>WTF</h3>
+                <h3>Random service</h3>
                 <p>Random description</p>
                 <h6>Hours</h6>
                 <ul>
